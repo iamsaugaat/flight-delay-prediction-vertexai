@@ -1,0 +1,6 @@
+tensorflow==2.11.0
+matplotlib
+pandas
+google-cloud-aiplatform
+google-cloud-storage
+google-cloud-bigquery
