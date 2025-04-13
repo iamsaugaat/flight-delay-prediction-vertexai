@@ -25,8 +25,15 @@ Target:
   - Wide (Crossed + Bucketized Categorical Features)
 - Final Sigmoid Layer for Binary Classification
 
-![Model Diagram](model/model_diagram.png)
-![Training Results](model/model_accuracy_loss.png)
+Model Diagram
+
+<img width="817" alt="Screenshot 2025-04-12 at 3 20 48 PM" src="https://github.com/user-attachments/assets/690850db-86d0-4996-82ac-4e25c3e646c5" />
+
+Training Results
+
+<img width="840" alt="Screenshot 2025-04-12 at 3 21 03 PM" src="https://github.com/user-attachments/assets/a10fd3ec-d4e1-4f3c-88dd-5d4f018938f5" />
+
+
 
 ## 🧪 Deployment
 Model is exported and deployed to Vertex AI using:
